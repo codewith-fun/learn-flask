@@ -1,0 +1,4 @@
+step 1: pipenv install flask gunicorn 
+STEP 2 : Create a “Procfile” and write the following code. 
+ 
+$ touch Procfile 
